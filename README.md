@@ -1,2 +1,2 @@
 # ClassWork
-just some classwork
+just some easy classwork

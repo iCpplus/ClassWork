@@ -1,2 +1,6 @@
-# ClassWork
-just some easy classwork
+```java
+public class Main {
+    public static void main(String[] args) {
+        registerEmail();
+    }
+```
